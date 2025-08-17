@@ -8,18 +8,6 @@
 
 ---
 
-## Table of Contents
-
-- [Gameplay](#gameplay)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Trademark](#trademark)
-
----
-
 ## Gameplay
 
 You’ll be presented with a new puzzle every time. Solve it within **60 seconds**—fail, and it’s game over!  
