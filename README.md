@@ -1,4 +1,50 @@
 # Infi-Escape
-A command-line game where you get a infinite number of puzzles, if you dont solve them in 60 seconds you loose! [Works on Windows, MacOS and Linux]
 
-The name "Infi-Escape"™ is a trademark of Wak6817.
+**Infi-Escape** is a thrilling, fast-paced command-line puzzle game where players face an endless barrage of puzzles—and must solve each within 60 seconds to stay alive!
+
+> **Works on:** Windows · macOS · Linux  
+> **License:** MIT License  
+> **Trademark:** "Infi-Escape"™ is a registered trademark of Wak6817.
+
+---
+
+## Table of Contents
+
+- [Gameplay](#gameplay)  
+- [Features](#features)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Trademark](#trademark)
+
+---
+
+## Gameplay
+
+You’ll be presented with a new puzzle every time. Solve it within **60 seconds**—fail, and it’s game over!  
+Each puzzle is randomly generated to keep the challenge fresh and unpredictable.
+
+---
+
+## Features
+
+- **Endless gameplay loop** with ever-changing puzzles  
+- **Cross-platform compatibility**: Windows, macOS, and Linux  
+- Compact, easy-to-run command-line interface  
+- Built using Python (or specify the actual language/build tools if different)
+
+---
+
+## Installation
+
+### Prerequisites
+
+- Install [Python 3.x](https://www.python.org/) (if the game is built in Python)  
+- A command-line environment (Terminal on macOS/Linux or PowerShell / Command Prompt on Windows)
+
+### Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Wak6817/Infi-Escape.git
