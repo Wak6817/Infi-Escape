@@ -32,7 +32,7 @@ Each puzzle is randomly generated to keep the challenge fresh and unpredictable.
 - **Endless gameplay loop** with ever-changing puzzles  
 - **Cross-platform compatibility**: Windows, macOS, and Linux  
 - Compact, easy-to-run command-line interface  
-- Built using Python (or specify the actual language/build tools if different)
+- Built using Python 3.x
 
 ---
 
@@ -41,7 +41,7 @@ Each puzzle is randomly generated to keep the challenge fresh and unpredictable.
 ### Prerequisites
 
 - Install [Python 3.x](https://www.python.org/) (if the game is built in Python)  
-- A command-line environment (Terminal on macOS/Linux or PowerShell / Command Prompt on Windows)
+- A command-line environment (Terminal on macOS/Linux / Command Prompt on Windows)
 
 ### Steps
 
