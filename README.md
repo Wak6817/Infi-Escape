@@ -1,10 +1,10 @@
-# Infi-Escape
+# Infini-Puzzler
 
-**Infi-Escape** is a thrilling, fast-paced command-line puzzle game where players face an endless barrage of puzzles—and must solve each within 60 seconds to stay alive!
+**Infini-Puzzler** is a thrilling, fast-paced command-line puzzle game where players face an endless barrage of puzzles and must solve each within 60 seconds to stay alive!
 
 > **Works on:** Windows · macOS · Linux  
 > **License:** MIT License  
-> **Trademark:** "Infi-Escape"™ is a registered trademark of Wak6817.
+> **Trademark:** "Infini-Puzzler"™ is a registered trademark of Wak6817.
 
 ---
 
