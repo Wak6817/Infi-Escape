@@ -1,7 +1,6 @@
 import random
 import time
 
-
 class Backend:
     
     @staticmethod
