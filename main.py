@@ -1,10 +1,10 @@
 import time
+import random
 import sys
 import select
 import termios
 import tty
 import os
-
 
 class Engine:
 
@@ -35,7 +35,7 @@ class Engine:
             return input_data
 
         @staticmethod
-        def generate_level(number=None, difficulty=None, type=None):
+        def generate_level(number=None, difficulty=random.choice["easy", "medium", "hard"], type=random.choice(["puzzle", "sudoku", "riddle"])):
             data = {
                 "level_number": number,
                 "difficulty": difficulty,
@@ -70,7 +70,6 @@ class Game:
 
     class Frontend:
         pass
-
 
 if __name__ == "__main__":
     Engine.Backend.cls_term()
